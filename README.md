@@ -24,9 +24,13 @@
 
 ### Libraries used:
 . Pandas 
+
 . Numpy
+
 . Seaborn
+
 . Matplotlib
+
 . scipy 
 
 
