@@ -13,14 +13,14 @@
 ### Features:
 
 **.** Usage_kWh - Continuous
-. Lagging_Current_Reactive.Power_kVarh - Continuous
-. Leading_Current_Reactive_Power_kVarh - Continuous
-. CO2(tCO2) - Continuous
-. Lagging_Current_Power_Factor - Continuous
-. Leading_Current_Power_Factor - Continuous
-. NSM - Integer
-. WeekStatus - Categorical
-. Day_of_week - Categorical 
+**.** Lagging_Current_Reactive.Power_kVarh - Continuous
+**.** Leading_Current_Reactive_Power_kVarh - Continuous
+**.** CO2(tCO2) - Continuous
+**.** Lagging_Current_Power_Factor - Continuous
+**.** Leading_Current_Power_Factor - Continuous
+**.** NSM - Integer
+**.** WeekStatus - Categorical
+**.** Day_of_week - Categorical 
 
 ### Libraries used:
  Pandas 
