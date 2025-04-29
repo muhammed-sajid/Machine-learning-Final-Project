@@ -23,15 +23,11 @@
 . Day_of_week - Categorical 
 
 ### Libraries used:
-. Pandas 
-
-. Numpy
-
-. Seaborn
-
-. Matplotlib
-
-. scipy 
+ Pandas 
+ Numpy
+ Seaborn
+ Matplotlib
+ scipy 
 
 
 
