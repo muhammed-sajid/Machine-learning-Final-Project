@@ -11,6 +11,7 @@
 . No of Records 35040 Rows & 11 columns
 
 ### Features:
+
 . Usage_kWh - Continuous
 . Lagging_Current_Reactive.Power_kVarh - Continuous
 . Leading_Current_Reactive_Power_kVarh - Continuous
@@ -20,3 +21,13 @@
 . NSM - Integer
 . WeekStatus - Categorical
 . Day_of_week - Categorical 
+
+### Libraries used:
+. Pandas 
+. Numpy
+. Seaborn
+. Matplotlib
+. scipy 
+
+
+
